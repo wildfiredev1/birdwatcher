@@ -1,0 +1,31 @@
+title: BIRDWATCHER
+
+description: identify the bird in the given image.
+
+about: Birdwatcher aims to help Texas' birdwatching enthusiasts in quickly identifying a bird from its image. This project uses a finetuned resnet18 trained on bird images from 10 different classes. The dataset was created using bing image search.
+
+
+code: https://github.com/wildfiredev1/birdwatcher
+
+
+sampleImages:
+  - name: American Coot
+    url: https://en.wikipedia.org/wiki/File:American-coot-casey-klebba.jpg
+  - name: Blue Jay
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blue_jay_in_PP_%2830960%29.jpg/220px-Blue_jay_in_PP_%2830960%29.jpg
+  - name: Great Blue Heron
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Great_blue_heron_%28Ardea_herodias_occidentalis%29_white_form.JPG/220px-Great_blue_heron_%28Ardea_herodias_occidentalis%29_white_form.JPG
+  - name: Cattle Egret
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cattle_Egret_in_breeding_plumage%2C_Wakodahatchee_Wetlands.jpg/220px-Cattle_Egret_in_breeding_plumage%2C_Wakodahatchee_Wetlands.jpg
+  - name: Eastern Screech Owl
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eastern_Screech_Owl.jpg/220px-Eastern_Screech_Owl.jpg
+  - name: Neotropic Cormorant
+    url: https://www.allaboutbirds.org/guide/assets/photo/66026921-720px.jpg
+  - name: Northern Mockingbird
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/220px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg
+  - name: Red Headed Woodpecker
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Melanerpes-erythrocephalus-003.jpg/220px-Melanerpes-erythrocephalus-003.jpg
+  - name: Redtailed Hawk
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Red-tailed_Hawk.jpg/220px-Red-tailed_Hawk.jpg
+  - name: Barn Owl
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a_%281%29.jpg/220px-Tyto_alba_-British_Wildlife_Centre%2C_Surrey%2C_England-8a_%281%29.jpg
