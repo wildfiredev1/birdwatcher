@@ -10,7 +10,7 @@ code: https://github.com/wildfiredev1/birdwatcher
 
 sampleImages:
   - name: American Coot
-    url: https://en.wikipedia.org/wiki/File:American-coot-casey-klebba.jpg
+    url: http://4.bp.blogspot.com/-FlfiArJS_5k/VP5c4_WDVhI/AAAAAAAAWlg/41taj74CRnE/w1200-h630-p-k-no-nu/coot.jpg
   - name: Blue Jay
     url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Blue_jay_in_PP_%2830960%29.jpg/220px-Blue_jay_in_PP_%2830960%29.jpg
   - name: Great Blue Heron
@@ -18,11 +18,11 @@ sampleImages:
   - name: Cattle Egret
     url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cattle_Egret_in_breeding_plumage%2C_Wakodahatchee_Wetlands.jpg/220px-Cattle_Egret_in_breeding_plumage%2C_Wakodahatchee_Wetlands.jpg
   - name: Eastern Screech Owl
-    url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eastern_Screech_Owl.jpg/220px-Eastern_Screech_Owl.jpg
+    url: https://i.pinimg.com/originals/3c/ae/bd/3caebdec0659528b31503ac27f69000a.jpg
   - name: Neotropic Cormorant
-    url: https://www.allaboutbirds.org/guide/assets/photo/66026921-720px.jpg
+    url: https://cdn.download.ams.birds.cornell.edu/api/v1/asset/66026921/1800
   - name: Northern Mockingbird
-    url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/220px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg
+    url:https://nas-national-prod.s3.amazonaws.com/a1_7448_5_northern-mockingbird_craig_abbott_adult.jpg
   - name: Red Headed Woodpecker
     url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Melanerpes-erythrocephalus-003.jpg/220px-Melanerpes-erythrocephalus-003.jpg
   - name: Redtailed Hawk
